@@ -1,0 +1,32 @@
+metadata_version: 1
+name: '1918 Every Year: Racial Inequality in Infectious Mortality, 1906--1942'
+description: "Replication package for 1918 Every Year: Racial Inequality in Infectious
+  Mortality, 1906--1942, forthcoming AEA Papers and Proceedings 2022. \n\nIn the first
+  half of the 20th century, racial inequality in the rate of death from infectious
+  disease was immense. In every year from 1906 to 1920, Black Americans in cities
+  died from infectious diseases at a rate higher than that of urban white Americans
+  during the 1918 influenza pandemic. We decompose mortality into three broad causes
+  of death to determine which causes were most influential. Our results suggest that
+  racial inequality in infectious mortality was primarily driven by TB and flu---the
+  two major respiratory causes of death. Waterborne causes, by contrast, played a
+  minor role in explaining the disparity."
+tags:
+- mortality
+- racial inequality
+- infectious disease
+authors:
+- name: James Feigenbaum
+  affiliations:
+  - name: Boston University
+- name: Lauren Hoehn-Velasco
+  affiliations:
+  - name: Georgia State University
+- name: Christopher Muller
+  affiliations:
+  - name: University of California, Berkeley
+- name: Elizabeth Wrigley-Field
+  affiliations:
+  - name: University of Minnesota
+corresponding_contributor:
+  name: James Feigenbaum
+  email: jamesf@bu.edu

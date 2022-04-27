@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+set -ex
+
+# Workaround
+ln -s /data data
+
+# make output dirs that the code is expecting
+# these won't persist after a run
+ln -s /results out
+mkdir -p out/james
+
+# This is the master script for the capsule. When you click "Reproducible Run", the code in this file will execute.
+Rscript master.R "$@"
+
+# copy output to the results dir
+cp -R out/* /results
